@@ -1,0 +1,5 @@
+﻿anyio
+httpx
+httpx_socks
+colorama
+fake-useragent
