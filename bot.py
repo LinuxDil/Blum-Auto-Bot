@@ -435,8 +435,8 @@ async def main():
         low_countdown
     banner = f"""
 {magenta}┏┓┳┓┏┓  ┏┓    •      {white}BlumTod Auto Claim for {green}blum
-{magenta}┗┓┃┃┗┓  ┃┃┏┓┏┓┓┏┓┏╋  {green}Author : {white}AkasakaID
-{magenta}┗┛┻┛┗┛  ┣┛┛ ┗┛┃┗ ┗┗  {white}Github : {green}https://github.com/AkasakaID
+{magenta}┗┓┃┃┗┓  ┃┃┏┓┏┓┓┏┓┏╋ 
+{magenta}┗┛┻┛┗┛  ┣┛┛ ┗┛┃┗ ┗┗  
 {magenta}              ┛      {green}Note : {white}Every Action Has a Consequence
         """
     arg = argparse.ArgumentParser()
